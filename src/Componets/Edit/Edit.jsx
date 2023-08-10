@@ -112,6 +112,9 @@ function StudentEdit() {
                             </Row>
                         </Form>
                     </Col>
+                    <Col className='col-6'>
+                    <img src="https://img.freepik.com/premium-vector/happy-business-colleagues-team-portrait_179970-1271.jpg?w=360" className="Img" alt="" />
+                    </Col>
                     
                 </Row>
             </Container>
